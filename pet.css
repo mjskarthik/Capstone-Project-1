@@ -1,0 +1,497 @@
+
+
+
+.abc{
+	background-color: black;
+	height: 5000px;
+	width: 1200px;
+	margin-left: 120px;
+}
+.pin{
+	background-color: #FBA1B7;
+	height: 600px;
+	width: 1200px;
+}
+.cd{
+	position: relative;
+	left: 600px;
+	top: 50px;
+	opacity: 0.9;
+}
+.pa{
+	position: relative;
+	bottom: 360px;
+	left: 80px;
+	font-family:sans-serif ;
+	color: #0D1282;
+	font-size: 50px;
+}
+.pe{
+	position: relative;
+	bottom: 390px;
+	left: 80px;
+	font-family:sans-serif ;
+	color: #0D1282;
+	font-size: 50px;
+}
+.he{
+	position: relative;
+	bottom: 420px;
+	left: 80px;
+	font-family:sans-serif ;
+	color: #0D1282;
+	font-size: 50px;
+}
+.para{
+	color: black;
+	height: 100px;
+	width: 300px;
+	background-color: revert;
+	position: relative;
+	bottom: 430px;
+	left: 80px;
+
+}
+.but{
+	color: white;
+	background-color: #EA1179;
+	position: relative;
+	bottom: 430px;
+	left: 100px;
+	padding: 10px;
+
+}
+.div2{
+	background-color: #0D1282;
+	height: 1000px;
+	width: 1200px;
+}
+.ic{
+	color:#FBA1B7;
+	font-size: 50px;
+	position: relative;
+	top: 60px;
+	left: 575px;
+}
+.para1{
+	color: #fff;
+	height: 200px;
+	width: 750px;
+	background-color: revert;
+	position: relative;
+	top: 115px;
+	left: 250px;
+}
+.lov{
+	font-size: 40px;
+	font-family: fantasy;
+}
+.ear{
+	font-size: 40px;
+	font-family: fantasy;
+	position: relative;
+	left: 50px;
+}
+.ip{
+	font-size: 40px;
+	font-family: fantasy;
+	position: relative;
+}
+.rem{
+	color: #fff;
+	height: 150px;
+	width: 600px;
+	background-color: revert;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.but1{
+	color: white;
+	background-color: #FBA1B7;
+	position: relative;
+	top: 20px;
+	left: 300px;
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+.pat{
+	height: 200px;
+	width: 250px;
+	background-color: #fff;
+	border-radius: 20px;
+	position: absolute;
+	top: 1500px;
+	left: 590px;
+	float: left;
+}
+.put{
+	height: 200px;
+	width: 250px;
+	background-color: #fff;
+	border-radius: 20px;
+	position: absolute;
+	top: 1500px;
+	left: 300px;
+	float: left;
+	margin-left: 20px;
+}
+.pit{
+	height: 200px;
+	width: 250px;
+	background-color: #fff;
+	border-radius: 20px;
+	position: absolute;
+	top: 1500px;
+	left: 840px;
+	float: left;
+	margin-left: 20px;
+}
+.div3{
+	height: 900px;
+	width: 1200px;
+	background-color: #FBA1B7 ;
+}
+.pro{
+	height: 200px;
+	width: 250px;
+	background-color: #fff;
+	border-radius: 20px;
+	position: relative;
+	top: 100px;
+	left: 173px;
+	float: left;
+	margin-left: 20px;
+}
+.dog{
+	height: 200px;
+	width: 250px;
+	background-color: #fff;
+	border-radius: 20px;
+	position: relative;
+	top: 100px;
+	left: 173px;
+	float: left;
+	margin-left: 20px;
+}
+.gift{
+	height: 200px;
+	width: 250px;
+	background-color: #fff;
+	border-radius: 20px;
+	position: relative;
+	top: 100px;
+	left: 173px;
+	float: left;
+	margin-left: 20px;
+	box-shadow:  2px black;
+}
+.img2{
+	height: 400px;
+	width: 400px;
+	position: absolute;
+	top: 2000px;
+	left: 200px;
+	opacity: 0.9;
+}
+.som{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 2000px;
+	left: 800px;
+	border-radius: 10px;
+	background-color: #2B3467;
+	color: white ;
+}
+.thi{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 2000px;
+	left: 1000px;
+	border-radius: 10px;
+	background-color: revert;
+	margin-left: 10px;
+}
+.not{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 2200px;
+	left: 800px;
+	border-radius: 10px;
+	background-color: revert;
+	margin-top: 10px;
+}
+.ing{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 2200px;
+	left: 1000px;
+	border-radius: 10px;
+	background-color: #2B3467;
+	color: whitesmoke;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.sp{
+	font-family: fantasy;
+	font-size: 20px;
+	margin-left: 30px;
+	position: relative;
+	top: 20px;
+}
+.gr{
+	position: relative;
+	top: 20px;
+	left: 10px;
+}
+.cr{
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: white;
+}
+cr:[hover]
+.an{
+	font-family: fantasy;
+	font-size: 20px;
+	margin-left: 30px;
+}
+.ei{
+	font-family: fantasy;
+	font-size: 20px;
+	margin-left: 30px;
+
+}
+.st{
+	font-family: fantasy;
+	font-size: 20px;
+	margin-left: 30px;
+}
+.pp{
+	font-family: fantasy;
+	font-size: 20px;
+	margin-left: 30px;
+	position: relative;
+	top: 20px;
+}
+.ar{
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: white;
+}
+.fr{
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: white;
+}
+.hei{
+	font-family: monospace;
+	font-size: 20px;
+	padding-left: 45px;
+	font-weight: 700;
+	color: grey;
+}
+.rad{
+	font-family: monospace;
+	color: grey;
+	font-size: 20px;
+	padding-left: 45px;
+	font-weight: 700;
+}
+.io{
+	font-family: monospace;
+	color: grey;
+	font-size: 20px;
+	padding-left: 45px;
+	font-weight: 700;
+}
+.ac{
+	font-family: monospace;
+	color: grey;
+	font-size: 20px;
+	padding-left: 50px;
+	font-weight: 700;
+}
+.dc{
+	font-family: monospace;
+	color: grey;
+	font-size: 20px;
+	padding-left: 50px;
+	font-weight: 700;
+}
+.sc{
+	font-family: monospace;
+	color: grey;
+	font-size: 20px;
+	padding-left: 50px;
+	font-weight: 700;
+}
+.div4{
+	height: 2500px;
+	width: 1200px;
+	background-color: #0D1282;
+}
+.vi{
+	color: whitesmoke;
+	font-family: sans-serif;
+	font-style: !important;
+	font-size: 50px;
+	position: relative;
+	top: 50px;
+	left: 100px;
+	font-weight: 900;
+	display: block;
+}
+.vc{
+	color: whitesmoke;
+	font-family: sans-serif;
+	font-style: !important;
+	font-size: 50px;
+	position: relative;
+	top: 35px;
+	left: 100px;
+	font-weight: 900;
+}
+.img3{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 2780px;
+	right: 600px;
+	left: 200px;
+	border-radius: 50%;
+}
+.dho{
+	height: 150px;
+	width: 700px;
+	background-color: revert;
+	position: relative;
+	left: 350px;
+	top: 150px;
+}
+.jo{
+	word-spacing: 7px;
+	color: whitesmoke;
+}
+.lcs{
+	color:#FBA1B7;
+	font-size: 50px;
+	position: relative;
+	top: 150px;
+	right: 340px;
+}
+.img4{
+	height: 300px;
+	width: 300px;
+	position: relative;
+	top: 200px;
+	left: 500px;
+}
+.eff{
+	color: whitesmoke;
+	font-family: monospace;
+	font-style: !important;
+	font-size: 50px;
+	position: relative;
+	top: 750px;
+	left: 50px;
+	font-weight: 900;
+	display: block;
+}
+.efi{
+	color: whitesmoke;
+	font-family: monospace;
+	font-style: !important;
+	font-size: 50px;
+	position: relative;
+	top: 770px;
+	left: 50px;
+	font-weight: 900;
+}
+.efe{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	position: relative;
+	top: 1100px;
+
+}
+.edc{
+	height: 200px;
+	width: 200px;
+	background-color: revert;
+	position: relative;
+	top: 150px;
+	left: 30px;
+	float: left;
+}
+.nuf{
+	height: 200px;
+	width: 200px;
+	background-color: revert;
+	position: relative;
+	top: 150px;
+	left: 70px;
+	float: left;
+}
+.pun{
+	color: black;
+	font-size: 20px;
+	font-weight: 700;
+}
+.gun{
+	color: black;
+	font-size: 20px;
+	font-weight: 700;
+	position: relative;
+}
+.ath{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	bottom: 300px;
+	right: 270px;
+}
+.atz{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	bottom: 300px;
+	right: 30px;
+}
+.athz{
+	height: 300px;
+	width: 300px;
+	background-color: revert;
+	position: relative;
+	left: 700px;
+	top: 600px;
+}
+.kar{
+	height: 300px;
+	width: 300px;
+	background-color: revert;
+	position: relative;
+	left: 700px;
+	top: 650px;
+}
+.tik{
+	font-size: 20px;
+	color: white;
+}
+.tt{
+	color: white;
+}
+.tit{
+	font-size: 20px;
+	color: white;
+}
+.cc{
+	color: white;
+}
